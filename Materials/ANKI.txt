@@ -1,0 +1,38 @@
+CONCEITOS: 
+
+• Pensamento Computacional: dividir problemas (complexos) em subproblemas (simples).
+ -> Decompor, reconhecer padrões, abstração (do particular ao generalista), design do algoritmo.
+
+• Construção do Algoritmo:
+ -> Compreensão do problema: pontos (+) importantes;
+ -> Definir dados de entradas: dados e cenários;
+ -> Definir processamento: operações e cálculos;
+ -> Definir dados de saída: resultado e processamento;
+ -> Utilização método de construção;
+ -> Teste e diagnóstico.
+
+
+____________________________________
+
+GIT/GITHUB: permite ver os versionamentos, enxergar uma linha do tempo do código.
+
+-> dir = lista todos os diretórios
+-> cd (change directory) = navega nas pastas
+  -> cd Windows = acessa pasta Windows
+  -> cd .. = volta uma pasta
+-> cls = limpa o terminal
+-> "TAB" = complementa o nome do arquivo da pasta
+-> mkdir (make directory) [nome] = cria a pasta com o nome escolhido
+  -> silence on success
+-> echo hello > hello.txt = cria-se o arquivo na pasta
+-> del = deleta arquivos do diretório, ex: " 'del workspace' deletaria os arquivos da pasta workspace "
+-> rmdir (remove directory) [nome] /S /Q = deleta o diretório por completo
+
+
+____________________________________
+
+ESTRUTURA:
+-> commit = emprega significância
+-> tree = faz ligações com blobs ou outras trees.
+-> blobs = arquivos e características
+-> SHA1 = código criptografado
