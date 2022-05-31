@@ -36,3 +36,29 @@ ESTRUTURA:
 -> tree = faz ligações com blobs ou outras trees.
 -> blobs = arquivos e características
 -> SHA1 = código criptografado
+
+
+_____________________________________
+
+HTML/CSS: hyper text markup language / seletores, propriedade e valor.
+
+• unsplash: imagens aleatórias
+• tiny png: compactar
+
+h1/h2/h3/p/a = título página, título seção, título do artigo, conteúdo do artigo, âncora;
+
+.header = para classes
+#header = para IDs
+
+• Sempre ao modular, linkar no topo da página.
+
+LISTAS:
+-> ul: lista com ordem de itens não importando;
+-> ol: ordem importa, por isso pode ser representado por letra ou número;
+-> li: ítem propriamente dito.
+
+BOX MODEL:
+
+-> margin > border > padding > content;
+
+-> keyframes: controla as características do objeto durante a animação;
