@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+#list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input:checked + label {
+  text-decoration: line-through;
+  color: gray;
+}
+
+#tasks {
+  margin-top: 30px;
+}
